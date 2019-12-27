@@ -19,7 +19,7 @@
 
 ## Demo
 
-![demo](https://www.youtube.com/embed/dNsfwnkfAUc)
+-[Video](https://www.youtube.com/embed/dNsfwnkfAUc)
 
 ## What's included
 
