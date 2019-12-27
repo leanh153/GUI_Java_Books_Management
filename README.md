@@ -18,8 +18,8 @@
 - Following README.txt file in the project "dist" folder.
 
 ## Demo
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dNsfwnkfAUc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dNsfwnkfAUc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 ## What's included
 
